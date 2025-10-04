@@ -12,3 +12,5 @@ if counter == 2:
     print("prime")
 else :
     print("not prime")
+
+print("  ")
