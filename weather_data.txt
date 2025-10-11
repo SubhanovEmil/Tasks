@@ -1,0 +1,21 @@
+Şəhər: California
+Ölkə adı: US
+Temperatur: 9.5 °C
+Hava təsviri: clear sky
+Rütubət: 67 %
+Küləyin sürəti: 2.82 m/s
+
+Şəhər: Moscow
+Ölkə adı: RU
+Temperatur: 13.69 °C
+Hava təsviri: overcast clouds
+Rütubət: 64 %
+Küləyin sürəti: 3.8 m/s
+
+Şəhər: Tehran
+Ölkə adı: IR
+Temperatur: 29.95 °C
+Hava təsviri: clear sky
+Rütubət: 7 %
+Küləyin sürəti: 5.14 m/s
+
